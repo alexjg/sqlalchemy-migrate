@@ -1,3 +1,11 @@
+What is this?
+-----------
+This is a fork of the sqlalchemy-migrate project over on http://code.google.com/p/sqlalchemy-migrate/
+I've forked the project because the original isn't compatible with sqlalchemy 0.8
+and won't be until issue http://code.google.com/p/sqlalchemy-migrate/issues/detail?id=154
+is resolved.
+
+
 Inspired by Ruby on Rails' migrations, Migrate provides a way to deal with
 database schema changes in `SQLAlchemy <http://sqlalchemy.org>`_ projects.
 
