@@ -1,0 +1,12 @@
+coverage
+nose
+nosexcover
+# NOTE: scripttest 1.0.1 removes base_path argument to ScriptTest
+scripttest==1.0
+pytz
+psycopg2
+pysqlite
+mysql-python
+http://jenkins.gnuviech-server.de/userContent/kinterbasdb-3.3.0.tar.bz2
+virtualenv
+unittest2
